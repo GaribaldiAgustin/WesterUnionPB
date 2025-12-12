@@ -1,0 +1,401 @@
+TransferID,Score_Riesgo,Motivo,Accion
+1,55,Historial previo,Liberar
+2,6,Alto monto,Investigar
+3,1,Patrón inusual,Liberar
+4,53,País de riesgo,Liberar
+5,89,Historial previo,Investigar
+6,30,Historial previo,Investigar
+7,9,País de riesgo,Liberar
+8,34,Historial previo,Liberar
+9,12,Cliente nuevo,Liberar
+10,80,País de riesgo,Retener
+11,53,Cliente nuevo,Liberar
+12,47,Alto monto,Liberar
+13,48,País de riesgo,Liberar
+14,57,Historial previo,Liberar
+15,20,País de riesgo,Liberar
+16,24,Historial previo,Liberar
+17,18,Alto monto,Liberar
+18,42,País de riesgo,Liberar
+19,22,Alto monto,Investigar
+20,92,País de riesgo,Retener
+21,4,Cliente nuevo,Investigar
+22,49,Patrón inusual,Liberar
+23,41,Patrón inusual,Liberar
+24,13,País de riesgo,Liberar
+25,17,Alto monto,Liberar
+26,93,Historial previo,Investigar
+27,43,Patrón inusual,Liberar
+28,58,Patrón inusual,Liberar
+29,53,País de riesgo,Liberar
+30,0,Cliente nuevo,Liberar
+31,0,Cliente nuevo,Liberar
+32,71,Patrón inusual,Investigar
+33,28,Alto monto,Investigar
+34,19,Patrón inusual,Liberar
+35,54,Cliente nuevo,Liberar
+36,39,País de riesgo,Investigar
+37,27,Historial previo,Liberar
+38,12,Patrón inusual,Liberar
+39,87,Alto monto,Liberar
+40,10,País de riesgo,Liberar
+41,21,Historial previo,Liberar
+42,39,Patrón inusual,Liberar
+43,19,País de riesgo,Investigar
+44,76,País de riesgo,Retener
+45,76,Patrón inusual,Liberar
+46,34,Historial previo,Liberar
+47,41,Patrón inusual,Liberar
+48,7,Historial previo,Investigar
+49,29,Cliente nuevo,Liberar
+50,38,Cliente nuevo,Liberar
+51,48,Alto monto,Liberar
+52,29,País de riesgo,Liberar
+53,33,Cliente nuevo,Liberar
+54,83,Alto monto,Investigar
+55,37,Cliente nuevo,Investigar
+56,14,País de riesgo,Liberar
+57,86,Cliente nuevo,Liberar
+58,55,País de riesgo,Liberar
+59,45,Historial previo,Liberar
+60,29,Alto monto,Liberar
+61,38,Cliente nuevo,Liberar
+62,12,Historial previo,Liberar
+63,75,Alto monto,Liberar
+64,37,Alto monto,Investigar
+65,30,Cliente nuevo,Liberar
+66,45,Historial previo,Investigar
+67,37,País de riesgo,Liberar
+68,43,Patrón inusual,Liberar
+69,70,Alto monto,Retener
+70,56,Historial previo,Liberar
+71,93,Historial previo,Retener
+72,24,País de riesgo,Liberar
+73,11,Alto monto,Liberar
+74,14,Historial previo,Liberar
+75,16,Cliente nuevo,Liberar
+76,75,Alto monto,Investigar
+77,12,Cliente nuevo,Liberar
+78,43,Cliente nuevo,Liberar
+79,6,Alto monto,Liberar
+80,15,Cliente nuevo,Liberar
+81,58,Historial previo,Liberar
+82,44,Historial previo,Investigar
+83,5,Patrón inusual,Liberar
+84,97,Cliente nuevo,Retener
+85,97,Patrón inusual,Retener
+86,12,Cliente nuevo,Liberar
+87,79,País de riesgo,Liberar
+88,82,Historial previo,Retener
+89,37,Patrón inusual,Investigar
+90,5,País de riesgo,Liberar
+91,79,País de riesgo,Retener
+92,11,Historial previo,Liberar
+93,4,Patrón inusual,Liberar
+94,40,Historial previo,Liberar
+95,95,Cliente nuevo,Retener
+96,82,Alto monto,Retener
+97,87,Cliente nuevo,Retener
+98,12,Cliente nuevo,Liberar
+99,32,Historial previo,Liberar
+100,16,Alto monto,Liberar
+101,26,País de riesgo,Liberar
+102,25,Historial previo,Liberar
+103,38,Cliente nuevo,Liberar
+104,24,Alto monto,Liberar
+105,53,Patrón inusual,Liberar
+106,29,Alto monto,Investigar
+107,28,Alto monto,Liberar
+108,12,Historial previo,Liberar
+109,47,País de riesgo,Liberar
+110,64,Alto monto,Liberar
+111,43,Cliente nuevo,Liberar
+112,29,Cliente nuevo,Liberar
+113,8,Patrón inusual,Investigar
+114,84,Patrón inusual,Liberar
+115,31,Patrón inusual,Liberar
+116,44,Patrón inusual,Liberar
+117,7,Cliente nuevo,Liberar
+118,0,Alto monto,Liberar
+119,50,País de riesgo,Liberar
+120,30,Alto monto,Liberar
+121,28,Alto monto,Investigar
+122,37,País de riesgo,Liberar
+123,53,Patrón inusual,Liberar
+124,34,Patrón inusual,Liberar
+125,90,País de riesgo,Investigar
+126,88,Patrón inusual,Investigar
+127,75,Cliente nuevo,Retener
+128,1,Historial previo,Liberar
+129,53,Patrón inusual,Investigar
+130,42,Historial previo,Liberar
+131,51,Patrón inusual,Liberar
+132,40,Cliente nuevo,Liberar
+133,45,Cliente nuevo,Liberar
+134,72,País de riesgo,Retener
+135,77,Alto monto,Investigar
+136,47,Cliente nuevo,Investigar
+137,7,Alto monto,Investigar
+138,53,País de riesgo,Investigar
+139,8,Cliente nuevo,Liberar
+140,30,Historial previo,Liberar
+141,24,País de riesgo,Investigar
+142,57,Alto monto,Liberar
+143,8,Alto monto,Liberar
+144,18,Historial previo,Investigar
+145,2,Patrón inusual,Liberar
+146,14,Patrón inusual,Liberar
+147,90,Alto monto,Retener
+148,22,Cliente nuevo,Investigar
+149,11,Patrón inusual,Investigar
+150,53,País de riesgo,Liberar
+151,57,Cliente nuevo,Liberar
+152,86,Historial previo,Investigar
+153,82,Historial previo,Investigar
+154,14,Cliente nuevo,Investigar
+155,14,Historial previo,Liberar
+156,23,Historial previo,Liberar
+157,75,Cliente nuevo,Investigar
+158,46,País de riesgo,Liberar
+159,17,País de riesgo,Liberar
+160,21,País de riesgo,Liberar
+161,77,Patrón inusual,Retener
+162,51,País de riesgo,Liberar
+163,98,Alto monto,Investigar
+164,44,Historial previo,Liberar
+165,55,Historial previo,Liberar
+166,4,Alto monto,Liberar
+167,0,País de riesgo,Liberar
+168,29,Cliente nuevo,Investigar
+169,11,Historial previo,Investigar
+170,58,Historial previo,Liberar
+171,77,Patrón inusual,Liberar
+172,38,Historial previo,Investigar
+173,55,Cliente nuevo,Liberar
+174,94,Historial previo,Retener
+175,46,Patrón inusual,Liberar
+176,79,Historial previo,Retener
+177,84,País de riesgo,Investigar
+178,44,Patrón inusual,Liberar
+179,16,Historial previo,Liberar
+180,66,Historial previo,Liberar
+181,5,Historial previo,Liberar
+182,14,País de riesgo,Investigar
+183,12,Historial previo,Liberar
+184,55,Historial previo,Investigar
+185,21,Patrón inusual,Liberar
+186,33,Historial previo,Liberar
+187,25,País de riesgo,Liberar
+188,49,Patrón inusual,Investigar
+189,56,Historial previo,Liberar
+190,6,País de riesgo,Liberar
+191,42,País de riesgo,Liberar
+192,16,Cliente nuevo,Liberar
+193,35,Alto monto,Liberar
+194,85,Historial previo,Retener
+195,16,Alto monto,Investigar
+196,0,Cliente nuevo,Liberar
+197,12,Historial previo,Liberar
+198,47,Cliente nuevo,Liberar
+199,39,Cliente nuevo,Liberar
+200,15,Historial previo,Liberar
+201,25,Historial previo,Liberar
+202,1,País de riesgo,Liberar
+203,80,Historial previo,Liberar
+204,1,Cliente nuevo,Investigar
+205,50,Historial previo,Liberar
+206,56,Alto monto,Liberar
+207,37,Historial previo,Liberar
+208,52,Cliente nuevo,Liberar
+209,33,Historial previo,Investigar
+210,22,Alto monto,Investigar
+211,45,Historial previo,Liberar
+212,22,Alto monto,Liberar
+213,17,Alto monto,Liberar
+214,31,Alto monto,Liberar
+215,19,País de riesgo,Liberar
+216,2,País de riesgo,Investigar
+217,16,Cliente nuevo,Liberar
+218,16,Historial previo,Liberar
+219,81,País de riesgo,Liberar
+220,21,País de riesgo,Liberar
+221,12,País de riesgo,Investigar
+222,8,Patrón inusual,Liberar
+223,67,Patrón inusual,Investigar
+224,8,País de riesgo,Liberar
+225,46,Cliente nuevo,Liberar
+226,22,Cliente nuevo,Liberar
+227,33,Patrón inusual,Liberar
+228,59,Patrón inusual,Liberar
+229,45,Patrón inusual,Liberar
+230,24,Cliente nuevo,Liberar
+231,47,País de riesgo,Liberar
+232,10,Historial previo,Liberar
+233,21,Patrón inusual,Investigar
+234,1,Alto monto,Investigar
+235,17,País de riesgo,Liberar
+236,65,Alto monto,Investigar
+237,34,Alto monto,Liberar
+238,15,Cliente nuevo,Liberar
+239,42,Alto monto,Liberar
+240,11,Cliente nuevo,Liberar
+241,38,Alto monto,Liberar
+242,58,Cliente nuevo,Liberar
+243,11,País de riesgo,Liberar
+244,86,Patrón inusual,Retener
+245,55,Historial previo,Liberar
+246,25,Cliente nuevo,Liberar
+247,53,Cliente nuevo,Liberar
+248,36,Alto monto,Liberar
+249,56,Cliente nuevo,Investigar
+250,36,Cliente nuevo,Liberar
+251,68,Historial previo,Investigar
+252,36,Cliente nuevo,Liberar
+253,98,Cliente nuevo,Retener
+254,1,Alto monto,Liberar
+255,4,Historial previo,Investigar
+256,88,Historial previo,Retener
+257,42,Historial previo,Liberar
+258,73,Cliente nuevo,Investigar
+259,46,País de riesgo,Liberar
+260,18,Cliente nuevo,Liberar
+261,46,Cliente nuevo,Liberar
+262,58,Alto monto,Investigar
+263,17,País de riesgo,Liberar
+264,36,Cliente nuevo,Liberar
+265,28,Historial previo,Investigar
+266,41,Cliente nuevo,Liberar
+267,18,País de riesgo,Liberar
+268,56,País de riesgo,Liberar
+269,90,País de riesgo,Investigar
+270,89,Alto monto,Retener
+271,73,Historial previo,Investigar
+272,30,Patrón inusual,Liberar
+273,60,Cliente nuevo,Investigar
+274,6,Alto monto,Liberar
+275,11,Patrón inusual,Liberar
+276,10,Patrón inusual,Investigar
+277,46,Alto monto,Liberar
+278,56,Cliente nuevo,Investigar
+279,43,País de riesgo,Liberar
+280,39,País de riesgo,Liberar
+281,44,País de riesgo,Liberar
+282,79,Alto monto,Investigar
+283,48,Cliente nuevo,Liberar
+284,53,Cliente nuevo,Liberar
+285,24,Alto monto,Liberar
+286,89,Patrón inusual,Investigar
+287,53,Historial previo,Liberar
+288,53,Patrón inusual,Liberar
+289,19,País de riesgo,Liberar
+290,40,Alto monto,Investigar
+291,24,Patrón inusual,Investigar
+292,11,Alto monto,Liberar
+293,94,Cliente nuevo,Retener
+294,38,Patrón inusual,Liberar
+295,50,País de riesgo,Liberar
+296,71,Alto monto,Retener
+297,28,Historial previo,Investigar
+298,27,Historial previo,Liberar
+299,9,Historial previo,Liberar
+300,17,Alto monto,Liberar
+301,95,Cliente nuevo,Retener
+302,44,Historial previo,Liberar
+303,35,Patrón inusual,Liberar
+304,44,Alto monto,Liberar
+305,37,Historial previo,Liberar
+306,58,Historial previo,Liberar
+307,3,País de riesgo,Liberar
+308,13,Cliente nuevo,Liberar
+309,15,Historial previo,Investigar
+310,6,Cliente nuevo,Liberar
+311,86,Cliente nuevo,Investigar
+312,33,País de riesgo,Liberar
+313,51,País de riesgo,Liberar
+314,63,Patrón inusual,Investigar
+315,80,Cliente nuevo,Investigar
+316,18,Historial previo,Liberar
+317,69,Patrón inusual,Investigar
+318,28,Patrón inusual,Liberar
+319,30,Historial previo,Liberar
+320,4,Patrón inusual,Liberar
+321,77,Cliente nuevo,Retener
+322,43,País de riesgo,Liberar
+323,88,País de riesgo,Liberar
+324,28,País de riesgo,Liberar
+325,19,Patrón inusual,Liberar
+326,57,Patrón inusual,Liberar
+327,16,Cliente nuevo,Liberar
+328,5,País de riesgo,Liberar
+329,32,País de riesgo,Liberar
+330,4,Cliente nuevo,Liberar
+331,19,Patrón inusual,Liberar
+332,38,País de riesgo,Investigar
+333,37,País de riesgo,Liberar
+334,62,Patrón inusual,Liberar
+335,21,Historial previo,Liberar
+336,44,País de riesgo,Investigar
+337,7,Alto monto,Liberar
+338,25,Alto monto,Liberar
+339,22,Cliente nuevo,Liberar
+340,8,País de riesgo,Liberar
+341,47,Cliente nuevo,Liberar
+342,14,País de riesgo,Liberar
+343,25,País de riesgo,Liberar
+344,37,País de riesgo,Liberar
+345,55,Patrón inusual,Investigar
+346,41,País de riesgo,Liberar
+347,39,Cliente nuevo,Liberar
+348,53,País de riesgo,Investigar
+349,38,Patrón inusual,Liberar
+350,81,Cliente nuevo,Investigar
+351,42,Historial previo,Investigar
+352,45,Patrón inusual,Liberar
+353,12,Patrón inusual,Liberar
+354,53,Patrón inusual,Investigar
+355,6,País de riesgo,Liberar
+356,27,Historial previo,Investigar
+357,22,País de riesgo,Liberar
+358,46,Patrón inusual,Liberar
+359,53,Patrón inusual,Liberar
+360,35,País de riesgo,Liberar
+361,29,País de riesgo,Liberar
+362,15,Cliente nuevo,Liberar
+363,28,Patrón inusual,Investigar
+364,50,País de riesgo,Liberar
+365,46,Cliente nuevo,Liberar
+366,57,Patrón inusual,Liberar
+367,41,Patrón inusual,Liberar
+368,17,Alto monto,Liberar
+369,9,Historial previo,Liberar
+370,49,Cliente nuevo,Liberar
+371,32,Historial previo,Liberar
+372,83,Cliente nuevo,Investigar
+373,42,Cliente nuevo,Liberar
+374,70,Alto monto,Retener
+375,8,Historial previo,Liberar
+376,23,Alto monto,Investigar
+377,76,Patrón inusual,Investigar
+378,17,Historial previo,Liberar
+379,65,País de riesgo,Investigar
+380,58,Historial previo,Liberar
+381,16,Alto monto,Liberar
+382,47,Cliente nuevo,Liberar
+383,29,País de riesgo,Liberar
+384,1,Cliente nuevo,Liberar
+385,17,Historial previo,Liberar
+386,0,Alto monto,Liberar
+387,22,Cliente nuevo,Liberar
+388,7,País de riesgo,Investigar
+389,36,Historial previo,Liberar
+390,79,Patrón inusual,Liberar
+391,9,País de riesgo,Investigar
+392,38,Historial previo,Investigar
+393,11,Patrón inusual,Investigar
+394,42,Alto monto,Liberar
+395,51,Cliente nuevo,Liberar
+396,53,País de riesgo,Liberar
+397,87,Historial previo,Retener
+398,57,País de riesgo,Liberar
+399,30,Cliente nuevo,Investigar
+400,67,Alto monto,Investigar

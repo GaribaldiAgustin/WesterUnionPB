@@ -1,0 +1,401 @@
+TransferID,Fecha,MontoUSD,Estado,Pais_Origen,Pais_Destino,Canal,Tiempo_Proceso_min,ClienteID
+1,2024-03-04,103.44,Completado,Peru,Brasil,App móvil,93,1
+2,2024-03-09,1299.79,Completado,Colombia,Brasil,App móvil,62,28
+3,2024-03-01,1223.09,Completado,Chile,Argentina,Sucursal,113,24
+4,2024-02-17,1499.58,Pendiente,Chile,Estados Unidos,Sucursal,48,35
+5,2024-01-19,1495.02,Retenido,Peru,Estados Unidos,Sucursal,30,13
+6,2024-01-04,842.04,Completado,Brasil,Peru,Web,12,47
+7,2024-02-04,1158.1,Completado,Argentina,Chile,App móvil,35,34
+8,2024-03-04,1418.25,Completado,Peru,Argentina,App móvil,11,11
+9,2024-02-18,1277.48,Completado,Peru,Peru,App móvil,64,36
+10,2024-01-17,386.08,Retenido,Colombia,Peru,Web,110,51
+11,2024-02-13,686.81,Completado,Chile,España,Sucursal,50,17
+12,2024-01-30,211.16,Completado,Peru,Brasil,App móvil,85,35
+13,2024-02-15,1432.0,Completado,Peru,Colombia,Agente Autorizado,21,60
+14,2024-01-06,917.14,Completado,Brasil,Brasil,Web,69,18
+15,2024-02-06,358.39,Completado,Brasil,Estados Unidos,Agente Autorizado,48,40
+16,2024-01-24,1014.12,Pendiente,Argentina,Chile,Web,20,22
+17,2024-02-15,934.83,Completado,Colombia,Brasil,App móvil,101,57
+18,2024-02-22,550.08,Completado,Argentina,Argentina,Agente Autorizado,67,24
+19,2024-02-29,188.07,Completado,Brasil,Peru,Sucursal,44,58
+20,2024-03-03,1013.93,Retenido,Chile,Argentina,Agente Autorizado,33,19
+21,2024-03-25,790.06,Pendiente,Brasil,España,Agente Autorizado,117,37
+22,2024-02-01,1163.03,Completado,Colombia,Chile,Agente Autorizado,73,39
+23,2024-03-27,789.84,Completado,Brasil,Peru,Agente Autorizado,61,21
+24,2024-02-02,1281.23,Completado,Colombia,Argentina,App móvil,9,8
+25,2024-03-07,836.82,Completado,Colombia,Estados Unidos,Sucursal,68,28
+26,2024-01-18,850.19,Retenido,Colombia,Colombia,Web,35,5
+27,2024-01-25,1317.45,Completado,Colombia,España,Web,81,17
+28,2024-02-23,617.15,Completado,Colombia,Chile,App móvil,98,37
+29,2024-02-27,218.34,Completado,Chile,España,App móvil,88,36
+30,2024-03-07,62.6,Completado,Argentina,Estados Unidos,App móvil,96,54
+31,2024-02-15,1137.6,Completado,Peru,Chile,Agente Autorizado,65,19
+32,2024-01-24,938.06,Rechazado,Argentina,España,Agente Autorizado,8,27
+33,2024-02-01,1062.04,Completado,Colombia,México,App móvil,45,53
+34,2024-02-16,335.19,Completado,Chile,Estados Unidos,Sucursal,87,34
+35,2024-03-26,221.83,Completado,Brasil,Estados Unidos,Agente Autorizado,47,11
+36,2024-01-23,41.53,Completado,Chile,Estados Unidos,Agente Autorizado,40,54
+37,2024-03-06,538.87,Completado,Colombia,México,Sucursal,76,45
+38,2024-01-27,893.08,Completado,Chile,México,Sucursal,54,47
+39,2024-01-02,600.52,Rechazado,Chile,Argentina,Sucursal,76,12
+40,2024-03-30,667.46,Completado,Colombia,Peru,App móvil,46,54
+41,2024-01-17,1358.15,Completado,Chile,Colombia,Sucursal,47,21
+42,2024-02-02,535.42,Completado,Peru,España,Agente Autorizado,15,54
+43,2024-01-09,780.7,Completado,Peru,Argentina,Web,105,11
+44,2024-02-12,1179.81,Retenido,Chile,España,Sucursal,19,39
+45,2024-02-17,606.88,Rechazado,Brasil,Colombia,Agente Autorizado,26,28
+46,2024-02-08,940.69,Completado,Colombia,Peru,App móvil,52,5
+47,2024-02-11,1296.3,Completado,Peru,México,Sucursal,93,17
+48,2024-01-26,1425.29,Completado,Brasil,Peru,App móvil,22,56
+49,2024-02-19,237.67,Completado,Chile,México,App móvil,104,20
+50,2024-01-25,1391.35,Completado,Brasil,Colombia,Agente Autorizado,21,41
+51,2024-01-24,748.33,Completado,Argentina,Peru,Web,51,46
+52,2024-01-13,402.2,Completado,Peru,Argentina,App móvil,38,58
+53,2024-02-29,699.52,Completado,Chile,Chile,Sucursal,20,12
+54,2024-01-07,1470.45,Rechazado,Colombia,Argentina,Agente Autorizado,29,6
+55,2024-02-26,749.07,Completado,Chile,España,App móvil,51,17
+56,2024-02-05,506.55,Completado,Colombia,Argentina,Sucursal,4,51
+57,2024-02-14,957.43,Rechazado,Chile,Colombia,Agente Autorizado,55,19
+58,2024-01-20,375.42,Completado,Brasil,Estados Unidos,Sucursal,71,26
+59,2024-03-05,132.28,Completado,Brasil,España,App móvil,92,48
+60,2024-01-08,210.74,Completado,Brasil,Peru,App móvil,28,44
+61,2024-01-16,209.51,Completado,Argentina,España,Agente Autorizado,4,44
+62,2024-01-14,244.82,Pendiente,Colombia,Chile,Sucursal,22,52
+63,2024-03-16,225.46,Rechazado,Brasil,México,App móvil,76,32
+64,2024-03-27,968.49,Completado,Argentina,Peru,Agente Autorizado,45,6
+65,2024-01-15,289.18,Completado,Colombia,Brasil,App móvil,67,55
+66,2024-03-06,531.59,Completado,Chile,España,Agente Autorizado,86,58
+67,2024-02-01,1347.25,Completado,Argentina,Peru,App móvil,108,36
+68,2024-03-27,721.46,Completado,Peru,Peru,Web,66,38
+69,2024-03-03,1007.99,Retenido,Argentina,Peru,App móvil,88,11
+70,2024-03-26,275.03,Completado,Argentina,México,App móvil,34,33
+71,2024-02-20,304.59,Retenido,Colombia,Brasil,App móvil,91,24
+72,2024-01-25,80.49,Completado,Chile,Colombia,App móvil,55,23
+73,2024-02-27,270.02,Completado,Peru,Argentina,Web,105,15
+74,2024-03-03,432.31,Completado,Brasil,Peru,Web,1,27
+75,2024-03-02,281.98,Pendiente,Brasil,Estados Unidos,App móvil,72,11
+76,2024-01-22,151.28,Rechazado,Argentina,Colombia,Sucursal,87,57
+77,2024-02-27,198.54,Pendiente,Colombia,Chile,Agente Autorizado,38,51
+78,2024-02-27,701.95,Completado,Colombia,México,Web,6,50
+79,2024-03-26,325.37,Completado,Brasil,España,Sucursal,86,17
+80,2024-02-18,559.12,Pendiente,Peru,México,App móvil,25,51
+81,2024-02-21,765.06,Completado,Chile,España,Sucursal,82,53
+82,2024-02-11,1041.78,Completado,Peru,México,Agente Autorizado,17,14
+83,2024-03-10,78.18,Completado,Chile,España,App móvil,61,27
+84,2024-01-15,1203.13,Retenido,Brasil,Peru,Sucursal,12,18
+85,2024-02-23,949.29,Retenido,Chile,Argentina,App móvil,6,28
+86,2024-02-29,141.0,Completado,Colombia,España,Agente Autorizado,90,51
+87,2024-01-08,1312.9,Rechazado,Argentina,Brasil,App móvil,27,47
+88,2024-02-22,1382.89,Retenido,Argentina,España,Sucursal,8,47
+89,2024-02-29,110.4,Completado,Brasil,Estados Unidos,Sucursal,83,4
+90,2024-01-05,429.78,Completado,Colombia,España,Sucursal,106,7
+91,2024-03-08,1213.18,Retenido,Peru,Estados Unidos,App móvil,65,45
+92,2024-01-06,1127.42,Completado,Colombia,Chile,Sucursal,57,35
+93,2024-02-16,293.09,Completado,Argentina,Peru,Sucursal,93,48
+94,2024-02-24,329.84,Completado,Argentina,Estados Unidos,Sucursal,109,9
+95,2024-02-09,568.3,Retenido,Colombia,Argentina,Sucursal,113,8
+96,2024-02-21,737.09,Retenido,Colombia,Colombia,Agente Autorizado,99,52
+97,2024-01-16,935.02,Retenido,Argentina,Peru,Agente Autorizado,40,45
+98,2024-01-13,565.99,Completado,Peru,Estados Unidos,App móvil,14,17
+99,2024-01-30,704.55,Pendiente,Brasil,Peru,Agente Autorizado,35,17
+100,2024-01-19,1126.26,Pendiente,Brasil,Brasil,Sucursal,48,49
+101,2024-01-17,74.29,Completado,Colombia,Peru,App móvil,109,33
+102,2024-03-03,393.61,Pendiente,Brasil,Peru,App móvil,84,32
+103,2024-01-19,1075.76,Completado,Argentina,Chile,App móvil,56,8
+104,2024-02-27,1344.91,Completado,Argentina,Argentina,Agente Autorizado,49,19
+105,2024-02-24,777.28,Completado,Colombia,México,Agente Autorizado,13,38
+106,2024-03-30,807.53,Completado,Colombia,México,Agente Autorizado,61,3
+107,2024-03-30,178.61,Completado,Colombia,Estados Unidos,Sucursal,102,59
+108,2024-03-02,682.17,Completado,Peru,Peru,Sucursal,49,5
+109,2024-01-23,808.27,Completado,Brasil,Estados Unidos,App móvil,46,13
+110,2024-01-09,378.86,Rechazado,Colombia,Chile,App móvil,113,47
+111,2024-01-12,418.48,Completado,Chile,Chile,Sucursal,62,46
+112,2024-01-01,578.38,Completado,Chile,España,App móvil,8,31
+113,2024-02-27,49.71,Completado,Argentina,Brasil,App móvil,43,55
+114,2024-01-01,496.68,Rechazado,Brasil,Chile,Sucursal,20,16
+115,2024-02-03,332.94,Completado,Colombia,España,Agente Autorizado,97,50
+116,2024-02-17,504.7,Completado,Chile,Argentina,Web,90,32
+117,2024-03-29,197.25,Pendiente,Brasil,Estados Unidos,Web,39,22
+118,2024-01-01,1337.98,Completado,Argentina,Colombia,Sucursal,85,29
+119,2024-01-16,898.52,Completado,Peru,Argentina,Sucursal,117,22
+120,2024-03-01,1025.07,Completado,Brasil,Chile,Sucursal,49,43
+121,2024-03-04,1187.97,Pendiente,Brasil,Argentina,Agente Autorizado,64,3
+122,2024-03-03,757.69,Completado,Peru,Argentina,App móvil,62,54
+123,2024-03-09,148.64,Pendiente,Brasil,Brasil,Sucursal,106,10
+124,2024-01-22,814.92,Completado,Argentina,Brasil,Agente Autorizado,107,42
+125,2024-03-07,888.52,Retenido,Argentina,Brasil,App móvil,54,21
+126,2024-03-16,1123.25,Rechazado,Peru,Argentina,Sucursal,105,16
+127,2024-01-26,658.86,Retenido,Colombia,Chile,Sucursal,9,12
+128,2024-01-16,208.82,Completado,Chile,Colombia,App móvil,88,2
+129,2024-02-20,439.99,Rechazado,Colombia,Peru,App móvil,37,41
+130,2024-03-26,557.36,Completado,Brasil,Argentina,App móvil,49,24
+131,2024-02-26,975.96,Completado,Chile,España,App móvil,41,35
+132,2024-01-29,864.75,Completado,Peru,Chile,App móvil,17,56
+133,2024-03-18,547.02,Pendiente,Peru,Argentina,Agente Autorizado,88,30
+134,2024-03-09,1480.04,Retenido,Chile,Colombia,App móvil,21,57
+135,2024-02-16,916.55,Rechazado,Argentina,Peru,Sucursal,51,30
+136,2024-03-02,371.1,Completado,Chile,Brasil,App móvil,59,47
+137,2024-03-09,170.64,Completado,Brasil,Chile,Web,39,35
+138,2024-03-16,246.23,Rechazado,Argentina,México,App móvil,55,19
+139,2024-01-16,384.02,Completado,Peru,Peru,Sucursal,41,50
+140,2024-03-30,257.81,Completado,Chile,España,Web,39,8
+141,2024-03-30,296.12,Completado,Colombia,Argentina,Agente Autorizado,13,26
+142,2024-02-17,441.94,Completado,Colombia,Colombia,App móvil,64,49
+143,2024-03-25,276.59,Completado,Brasil,México,Agente Autorizado,11,40
+144,2024-02-08,1347.21,Completado,Colombia,Colombia,Sucursal,110,7
+145,2024-02-02,138.75,Completado,Chile,México,Sucursal,19,30
+146,2024-01-23,796.28,Completado,Chile,Chile,App móvil,11,7
+147,2024-01-10,627.39,Retenido,Colombia,México,App móvil,77,3
+148,2024-03-09,1473.92,Completado,Chile,España,Agente Autorizado,46,1
+149,2024-02-03,185.82,Completado,Brasil,España,Sucursal,45,36
+150,2024-02-21,608.83,Completado,Argentina,Estados Unidos,Sucursal,1,25
+151,2024-01-10,1454.82,Completado,Brasil,España,Agente Autorizado,40,37
+152,2024-01-19,1300.95,Retenido,Brasil,Peru,Agente Autorizado,108,1
+153,2024-02-27,1229.27,Rechazado,Chile,México,App móvil,19,15
+154,2024-01-01,401.7,Completado,Argentina,España,Sucursal,76,37
+155,2024-03-09,272.91,Completado,Chile,Chile,App móvil,72,13
+156,2024-01-04,1009.59,Pendiente,Peru,Colombia,Agente Autorizado,72,40
+157,2024-01-16,1395.48,Retenido,Chile,Brasil,Agente Autorizado,61,8
+158,2024-01-24,844.01,Completado,Chile,Colombia,Web,117,5
+159,2024-03-20,865.99,Completado,Chile,Estados Unidos,App móvil,109,60
+160,2024-01-02,434.37,Completado,Argentina,Colombia,App móvil,12,9
+161,2024-02-01,1158.85,Retenido,Chile,México,App móvil,61,1
+162,2024-03-31,296.82,Completado,Argentina,Estados Unidos,App móvil,112,36
+163,2024-03-24,499.05,Retenido,Colombia,México,App móvil,33,35
+164,2024-01-24,649.65,Completado,Peru,Chile,Web,45,2
+165,2024-01-12,771.26,Completado,Argentina,Estados Unidos,App móvil,90,40
+166,2024-02-19,378.77,Completado,Colombia,Argentina,App móvil,103,23
+167,2024-02-04,189.96,Completado,Argentina,Peru,Agente Autorizado,92,9
+168,2024-02-02,923.72,Completado,Argentina,Peru,Sucursal,69,34
+169,2024-02-02,447.17,Completado,Peru,México,Agente Autorizado,8,46
+170,2024-03-01,880.23,Completado,Brasil,Colombia,App móvil,25,14
+171,2024-02-20,248.46,Rechazado,Brasil,Brasil,Sucursal,91,4
+172,2024-02-12,732.09,Completado,Argentina,Brasil,App móvil,46,30
+173,2024-01-12,808.23,Completado,Chile,Argentina,App móvil,87,31
+174,2024-03-07,96.7,Retenido,Colombia,Estados Unidos,Web,30,38
+175,2024-03-05,518.17,Pendiente,Chile,Argentina,App móvil,109,11
+176,2024-02-02,218.93,Retenido,Chile,Argentina,Sucursal,47,35
+177,2024-02-09,113.79,Retenido,Argentina,Colombia,Sucursal,87,8
+178,2024-03-14,1485.14,Completado,Argentina,Brasil,App móvil,49,3
+179,2024-02-12,497.08,Completado,Argentina,Estados Unidos,Web,47,14
+180,2024-02-13,1218.61,Rechazado,Argentina,Chile,App móvil,84,60
+181,2024-01-29,396.87,Completado,Brasil,Colombia,Agente Autorizado,82,13
+182,2024-01-13,1028.62,Completado,Argentina,Argentina,Web,18,45
+183,2024-01-12,1145.14,Pendiente,Brasil,Argentina,Sucursal,66,32
+184,2024-02-15,901.55,Completado,Brasil,Chile,Web,68,34
+185,2024-01-02,717.93,Completado,Argentina,Argentina,App móvil,94,45
+186,2024-02-04,629.52,Completado,Peru,Argentina,Sucursal,33,19
+187,2024-03-27,536.33,Completado,Colombia,Argentina,App móvil,36,59
+188,2024-03-21,1395.7,Completado,Chile,Peru,Agente Autorizado,82,38
+189,2024-03-30,1249.32,Completado,Brasil,Colombia,Web,101,16
+190,2024-01-08,1448.24,Pendiente,Colombia,España,App móvil,19,2
+191,2024-01-26,203.96,Completado,Peru,Colombia,Agente Autorizado,111,40
+192,2024-03-14,1101.68,Completado,Chile,Chile,App móvil,28,17
+193,2024-03-30,1408.74,Pendiente,Chile,Argentina,Sucursal,40,55
+194,2024-02-03,288.22,Retenido,Brasil,Colombia,Sucursal,84,34
+195,2024-01-07,118.41,Pendiente,Argentina,Peru,Web,113,42
+196,2024-03-08,1116.86,Pendiente,Peru,Brasil,Sucursal,97,60
+197,2024-02-27,870.22,Completado,Brasil,Chile,App móvil,76,16
+198,2024-03-15,1265.91,Completado,Peru,México,App móvil,115,38
+199,2024-01-29,226.86,Completado,Argentina,Colombia,App móvil,15,60
+200,2024-02-05,1197.0,Completado,Argentina,México,App móvil,41,2
+201,2024-03-29,318.41,Completado,Brasil,Argentina,App móvil,39,2
+202,2024-01-21,262.21,Completado,Argentina,Peru,Web,2,26
+203,2024-02-05,263.11,Rechazado,Colombia,Peru,Sucursal,63,13
+204,2024-01-10,1225.57,Completado,Chile,Colombia,Sucursal,29,56
+205,2024-03-13,1004.49,Completado,Brasil,Chile,App móvil,105,47
+206,2024-01-24,794.14,Completado,Peru,Chile,Web,74,31
+207,2024-03-04,551.07,Completado,Colombia,Peru,Agente Autorizado,66,60
+208,2024-02-18,1318.26,Completado,Brasil,Chile,App móvil,51,34
+209,2024-02-05,600.82,Pendiente,Argentina,Peru,Agente Autorizado,75,39
+210,2024-03-22,1228.57,Completado,Argentina,Colombia,Sucursal,77,3
+211,2024-01-24,669.92,Completado,Argentina,España,App móvil,10,8
+212,2024-01-23,577.88,Completado,Argentina,Peru,Sucursal,14,23
+213,2024-03-02,704.77,Pendiente,Peru,México,Sucursal,82,14
+214,2024-02-06,466.04,Completado,Colombia,Chile,App móvil,51,56
+215,2024-01-12,1126.46,Completado,Chile,Peru,Web,118,55
+216,2024-02-24,764.03,Completado,Peru,Peru,Agente Autorizado,73,27
+217,2024-01-13,363.67,Completado,Peru,Colombia,Agente Autorizado,39,54
+218,2024-01-23,1351.37,Pendiente,Chile,Chile,Sucursal,28,29
+219,2024-03-29,588.16,Rechazado,Chile,España,Sucursal,3,39
+220,2024-01-30,824.46,Completado,Argentina,Colombia,Agente Autorizado,84,53
+221,2024-01-17,1361.58,Pendiente,Peru,España,Sucursal,70,39
+222,2024-03-02,943.87,Pendiente,Brasil,Brasil,App móvil,27,1
+223,2024-03-24,193.01,Rechazado,Chile,Colombia,Sucursal,117,17
+224,2024-03-29,1410.95,Pendiente,Chile,Chile,Agente Autorizado,2,41
+225,2024-03-26,949.01,Completado,Colombia,Estados Unidos,Sucursal,93,30
+226,2024-01-13,515.66,Completado,Brasil,Chile,App móvil,38,53
+227,2024-02-28,226.12,Completado,Brasil,Chile,Agente Autorizado,3,13
+228,2024-01-19,1195.16,Rechazado,Chile,España,App móvil,16,21
+229,2024-02-18,937.71,Completado,Argentina,España,App móvil,94,19
+230,2024-01-12,809.52,Pendiente,Colombia,Chile,App móvil,40,53
+231,2024-03-01,1342.96,Pendiente,Brasil,Chile,App móvil,2,19
+232,2024-01-19,1187.12,Completado,Chile,Chile,Agente Autorizado,81,57
+233,2024-03-16,244.48,Pendiente,Brasil,España,Sucursal,41,25
+234,2024-01-09,481.35,Completado,Colombia,Chile,App móvil,12,22
+235,2024-03-11,387.76,Completado,Colombia,Chile,Web,35,31
+236,2024-01-28,1121.04,Rechazado,Peru,Brasil,Web,107,17
+237,2024-03-18,69.63,Completado,Chile,Argentina,Web,65,55
+238,2024-02-21,863.44,Pendiente,Colombia,Estados Unidos,App móvil,55,23
+239,2024-03-23,1148.44,Pendiente,Peru,México,Sucursal,45,32
+240,2024-01-16,1317.61,Completado,Peru,Estados Unidos,Web,79,10
+241,2024-03-09,526.28,Completado,Brasil,Argentina,Agente Autorizado,90,10
+242,2024-01-12,1235.46,Completado,Brasil,México,App móvil,101,36
+243,2024-01-25,183.73,Completado,Peru,Colombia,App móvil,85,8
+244,2024-02-21,1272.75,Retenido,Brasil,Chile,Sucursal,62,54
+245,2024-03-25,208.68,Completado,Colombia,Argentina,Web,49,52
+246,2024-02-22,607.99,Completado,Argentina,Brasil,Sucursal,95,20
+247,2024-01-23,1200.0,Completado,Colombia,Colombia,Sucursal,25,32
+248,2024-01-16,241.88,Completado,Peru,Chile,App móvil,23,50
+249,2024-02-26,359.29,Rechazado,Peru,España,Agente Autorizado,24,14
+250,2024-02-08,1088.93,Completado,Colombia,Peru,Agente Autorizado,38,50
+251,2024-02-22,1085.65,Rechazado,Brasil,Argentina,App móvil,28,28
+252,2024-02-11,968.9,Completado,Brasil,España,Agente Autorizado,21,46
+253,2024-02-27,1047.04,Retenido,Peru,Argentina,Web,54,52
+254,2024-02-08,823.23,Completado,Chile,Brasil,App móvil,107,53
+255,2024-01-14,392.66,Completado,Brasil,Argentina,Sucursal,18,24
+256,2024-01-05,531.63,Retenido,Colombia,España,App móvil,36,15
+257,2024-02-04,288.76,Completado,Brasil,Brasil,Agente Autorizado,99,22
+258,2024-03-27,1364.51,Retenido,Colombia,México,Sucursal,45,30
+259,2024-03-15,883.42,Completado,Peru,Estados Unidos,Sucursal,119,4
+260,2024-01-18,613.26,Completado,Brasil,Chile,Agente Autorizado,73,13
+261,2024-03-16,703.77,Completado,Colombia,Argentina,App móvil,53,59
+262,2024-01-09,1421.98,Rechazado,Peru,Chile,Web,102,23
+263,2024-03-14,246.96,Completado,Chile,Peru,Sucursal,30,8
+264,2024-02-27,887.62,Completado,Colombia,España,App móvil,60,18
+265,2024-01-17,768.72,Completado,Chile,Chile,Agente Autorizado,108,12
+266,2024-01-07,924.95,Completado,Chile,España,Agente Autorizado,98,55
+267,2024-02-15,46.8,Completado,Argentina,Chile,App móvil,32,31
+268,2024-01-13,1310.74,Pendiente,Brasil,Estados Unidos,Web,67,14
+269,2024-02-09,1399.54,Retenido,Colombia,Estados Unidos,Web,67,34
+270,2024-02-11,856.4,Retenido,Chile,Brasil,App móvil,28,18
+271,2024-01-09,1051.04,Rechazado,Argentina,Estados Unidos,Web,44,56
+272,2024-02-19,1385.3,Completado,Peru,Brasil,App móvil,79,34
+273,2024-01-27,1066.71,Rechazado,Colombia,Estados Unidos,App móvil,41,11
+274,2024-03-06,245.76,Completado,Chile,Estados Unidos,App móvil,63,41
+275,2024-01-05,872.91,Completado,Brasil,Estados Unidos,Web,23,12
+276,2024-01-29,917.94,Completado,Argentina,España,Agente Autorizado,104,49
+277,2024-02-06,647.71,Completado,Chile,Argentina,App móvil,75,15
+278,2024-02-07,1109.94,Rechazado,Brasil,Brasil,Sucursal,48,57
+279,2024-03-23,1402.86,Completado,Chile,Chile,Sucursal,32,31
+280,2024-01-08,1389.84,Completado,Colombia,Estados Unidos,App móvil,57,49
+281,2024-03-05,687.24,Completado,Colombia,España,Web,118,58
+282,2024-03-26,187.59,Retenido,Colombia,España,Agente Autorizado,100,29
+283,2024-01-17,1477.56,Completado,Argentina,España,Sucursal,33,26
+284,2024-03-11,1261.57,Completado,Colombia,Brasil,Web,24,18
+285,2024-03-29,204.5,Completado,Brasil,Argentina,Sucursal,39,32
+286,2024-02-14,1382.85,Rechazado,Chile,Brasil,Web,34,22
+287,2024-01-04,1307.45,Completado,Peru,Chile,Agente Autorizado,56,38
+288,2024-02-05,787.88,Completado,Brasil,Argentina,Sucursal,28,17
+289,2024-03-10,895.09,Completado,Brasil,México,App móvil,37,23
+290,2024-01-31,610.52,Completado,Colombia,Colombia,Web,7,24
+291,2024-01-19,101.05,Completado,Argentina,España,Sucursal,68,50
+292,2024-03-01,516.09,Completado,Chile,Brasil,App móvil,37,8
+293,2024-02-23,1208.22,Retenido,Argentina,México,App móvil,56,41
+294,2024-02-08,26.86,Completado,Chile,Peru,Sucursal,65,6
+295,2024-03-31,513.58,Completado,Chile,Brasil,Sucursal,65,5
+296,2024-03-14,609.29,Retenido,Argentina,Estados Unidos,Agente Autorizado,47,44
+297,2024-03-30,815.35,Completado,Brasil,Colombia,Web,20,57
+298,2024-01-19,1381.39,Completado,Chile,Estados Unidos,App móvil,19,29
+299,2024-02-08,532.59,Completado,Argentina,Argentina,Agente Autorizado,29,28
+300,2024-03-07,533.49,Completado,Chile,Colombia,App móvil,74,11
+301,2024-02-14,1111.5,Retenido,Peru,Brasil,Web,60,57
+302,2024-01-13,689.28,Completado,Brasil,Chile,Agente Autorizado,18,1
+303,2024-02-27,352.42,Pendiente,Colombia,México,Sucursal,92,43
+304,2024-01-20,689.61,Completado,Chile,Chile,Agente Autorizado,35,19
+305,2024-03-12,228.47,Completado,Peru,Brasil,App móvil,43,9
+306,2024-03-01,281.05,Completado,Colombia,Argentina,Sucursal,111,27
+307,2024-02-08,757.58,Completado,Colombia,Estados Unidos,Agente Autorizado,95,34
+308,2024-01-01,640.01,Completado,Chile,Colombia,Sucursal,91,44
+309,2024-01-03,1373.97,Pendiente,Argentina,Chile,App móvil,11,4
+310,2024-03-17,556.34,Completado,Chile,Brasil,Sucursal,49,36
+311,2024-03-02,879.27,Retenido,Peru,Chile,Agente Autorizado,113,18
+312,2024-03-03,955.75,Completado,Colombia,Brasil,App móvil,38,15
+313,2024-01-25,39.38,Pendiente,Chile,Estados Unidos,App móvil,64,51
+314,2024-02-25,1002.04,Rechazado,Argentina,Colombia,Agente Autorizado,69,13
+315,2024-02-02,283.49,Rechazado,Chile,México,Agente Autorizado,8,19
+316,2024-02-07,1442.38,Pendiente,Brasil,Estados Unidos,App móvil,34,49
+317,2024-01-06,240.02,Rechazado,Argentina,Chile,App móvil,48,6
+318,2024-02-27,633.64,Completado,Peru,México,App móvil,116,48
+319,2024-02-13,146.32,Completado,Colombia,Brasil,App móvil,56,56
+320,2024-02-14,1495.37,Completado,Chile,México,Sucursal,76,12
+321,2024-02-01,763.25,Retenido,Argentina,Brasil,Agente Autorizado,102,51
+322,2024-02-14,901.17,Completado,Brasil,Estados Unidos,Agente Autorizado,65,37
+323,2024-03-01,119.27,Rechazado,Argentina,Chile,Sucursal,31,17
+324,2024-02-16,1129.94,Completado,Brasil,Argentina,App móvil,4,58
+325,2024-01-21,330.66,Completado,Peru,Chile,Agente Autorizado,113,23
+326,2024-03-20,1349.12,Completado,Colombia,Brasil,Sucursal,109,26
+327,2024-03-25,323.61,Completado,Peru,España,Web,50,29
+328,2024-03-15,302.22,Completado,Chile,Colombia,Sucursal,69,33
+329,2024-02-05,74.09,Completado,Argentina,Peru,App móvil,30,60
+330,2024-01-19,718.66,Completado,Brasil,Argentina,Agente Autorizado,88,27
+331,2024-01-20,855.96,Completado,Brasil,México,App móvil,59,25
+332,2024-02-26,117.25,Completado,Argentina,Argentina,Agente Autorizado,67,56
+333,2024-01-18,1167.78,Completado,Argentina,Colombia,App móvil,75,55
+334,2024-02-16,690.87,Rechazado,Chile,México,App móvil,45,10
+335,2024-02-18,796.1,Completado,Peru,Colombia,Web,4,47
+336,2024-01-14,672.33,Completado,Brasil,México,App móvil,26,23
+337,2024-01-15,613.13,Completado,Chile,Argentina,Agente Autorizado,27,21
+338,2024-01-31,848.27,Completado,Peru,México,App móvil,46,21
+339,2024-01-01,249.76,Completado,Chile,México,Sucursal,118,43
+340,2024-02-23,289.25,Completado,Brasil,España,Agente Autorizado,107,13
+341,2024-01-03,1295.44,Completado,Argentina,Chile,Sucursal,64,37
+342,2024-01-16,1420.25,Completado,Argentina,Chile,App móvil,91,33
+343,2024-03-27,572.5,Completado,Peru,Peru,App móvil,106,24
+344,2024-02-26,420.7,Pendiente,Colombia,Peru,App móvil,51,44
+345,2024-03-15,973.12,Rechazado,Peru,Brasil,App móvil,50,11
+346,2024-01-12,624.93,Completado,Colombia,Brasil,Agente Autorizado,6,17
+347,2024-03-14,57.57,Completado,Chile,Brasil,Web,59,4
+348,2024-01-16,251.11,Completado,Chile,España,Web,15,47
+349,2024-03-12,1079.64,Completado,Brasil,Peru,Agente Autorizado,117,25
+350,2024-03-16,995.21,Retenido,Colombia,Colombia,Agente Autorizado,30,30
+351,2024-01-24,60.1,Completado,Brasil,Brasil,Agente Autorizado,42,9
+352,2024-01-28,348.52,Completado,Argentina,Brasil,App móvil,101,21
+353,2024-01-08,361.99,Completado,Colombia,Argentina,Web,37,20
+354,2024-02-05,1014.4,Rechazado,Peru,Estados Unidos,Agente Autorizado,42,19
+355,2024-03-30,49.17,Completado,Argentina,Colombia,Sucursal,101,19
+356,2024-01-08,174.08,Completado,Argentina,Brasil,App móvil,35,12
+357,2024-02-27,1203.88,Completado,Peru,Brasil,Sucursal,87,37
+358,2024-02-29,284.25,Completado,Argentina,Brasil,Sucursal,6,42
+359,2024-02-19,986.06,Completado,Colombia,Estados Unidos,Web,68,17
+360,2024-01-28,372.51,Completado,Brasil,Estados Unidos,Sucursal,18,37
+361,2024-02-10,167.17,Completado,Argentina,España,App móvil,73,54
+362,2024-03-04,379.89,Completado,Colombia,Colombia,Web,113,48
+363,2024-01-27,1088.96,Completado,Chile,España,App móvil,29,39
+364,2024-03-03,1286.43,Completado,Colombia,México,Sucursal,77,28
+365,2024-01-17,1248.73,Completado,Brasil,Estados Unidos,App móvil,59,41
+366,2024-03-13,607.83,Completado,Colombia,Argentina,Agente Autorizado,47,35
+367,2024-02-02,1008.77,Pendiente,Peru,Peru,Web,116,47
+368,2024-03-24,323.38,Completado,Brasil,Argentina,App móvil,17,48
+369,2024-03-17,453.86,Completado,Chile,Peru,Web,109,18
+370,2024-01-29,1346.58,Completado,Peru,Estados Unidos,App móvil,96,14
+371,2024-01-13,39.24,Completado,Colombia,Estados Unidos,Web,112,35
+372,2024-02-15,146.55,Rechazado,Brasil,Estados Unidos,Agente Autorizado,22,44
+373,2024-02-04,327.67,Completado,Chile,España,Agente Autorizado,68,41
+374,2024-01-06,59.27,Retenido,Peru,Colombia,App móvil,69,60
+375,2024-03-22,288.52,Completado,Chile,Peru,Web,37,7
+376,2024-03-09,882.9,Completado,Colombia,Colombia,Agente Autorizado,105,41
+377,2024-02-16,643.71,Rechazado,Chile,España,App móvil,49,13
+378,2024-01-25,1341.15,Pendiente,Argentina,España,Agente Autorizado,13,18
+379,2024-03-06,1229.82,Rechazado,Peru,Chile,App móvil,34,37
+380,2024-01-10,525.89,Pendiente,Chile,Argentina,Web,109,13
+381,2024-02-25,403.95,Completado,Colombia,Argentina,App móvil,86,36
+382,2024-01-30,581.94,Pendiente,Colombia,México,Agente Autorizado,53,31
+383,2024-01-05,893.64,Completado,Chile,Brasil,Sucursal,87,2
+384,2024-02-02,416.73,Pendiente,Colombia,España,App móvil,51,16
+385,2024-03-05,943.74,Completado,Brasil,Peru,App móvil,3,9
+386,2024-01-18,625.93,Pendiente,Brasil,Chile,App móvil,42,9
+387,2024-02-18,837.03,Completado,Brasil,Chile,Sucursal,98,38
+388,2024-01-11,665.47,Completado,Argentina,Brasil,App móvil,32,11
+389,2024-03-25,455.81,Completado,Chile,Colombia,Sucursal,109,54
+390,2024-01-26,1423.71,Rechazado,Argentina,Brasil,App móvil,51,56
+391,2024-03-03,1150.14,Completado,Colombia,Brasil,App móvil,113,22
+392,2024-03-29,227.37,Completado,Argentina,Brasil,Agente Autorizado,85,33
+393,2024-03-26,1305.33,Completado,Colombia,Argentina,App móvil,46,36
+394,2024-02-28,741.4,Completado,Colombia,España,Web,108,45
+395,2024-01-27,1343.94,Pendiente,Peru,México,Web,21,23
+396,2024-02-18,1203.79,Completado,Brasil,España,Agente Autorizado,44,45
+397,2024-03-17,649.32,Retenido,Colombia,Colombia,Sucursal,11,45
+398,2024-02-02,53.25,Completado,Peru,Estados Unidos,Web,103,34
+399,2024-01-01,417.64,Completado,Brasil,Brasil,App móvil,68,9
+400,2024-01-21,821.62,Rechazado,Colombia,España,App móvil,115,24

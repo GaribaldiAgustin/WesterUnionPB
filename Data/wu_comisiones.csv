@@ -1,0 +1,401 @@
+TransferID,Tipo_Comision,ComisionUSD
+1,Service Fee,2.71
+2,Porcentual,51.0
+3,Fija,7.99
+4,Porcentual,23.96
+5,Service Fee,15.92
+6,Fija,3.99
+7,Service Fee,21.38
+8,Porcentual,18.43
+9,Porcentual,22.05
+10,Service Fee,8.78
+11,Porcentual,26.42
+12,Fija,5.99
+13,Porcentual,37.13
+14,Porcentual,9.44
+15,Porcentual,13.94
+16,Porcentual,30.75
+17,Fija,7.99
+18,Fija,3.99
+19,Porcentual,7.39
+20,Fija,3.99
+21,Fija,5.99
+22,Service Fee,9.91
+23,Fija,7.99
+24,Fija,3.99
+25,Porcentual,21.37
+26,Fija,4.99
+27,Porcentual,35.63
+28,Porcentual,16.32
+29,Service Fee,5.3
+30,Porcentual,2.18
+31,Porcentual,21.31
+32,Fija,5.99
+33,Fija,5.99
+34,Porcentual,12.78
+35,Porcentual,5.37
+36,Fija,7.99
+37,Fija,4.99
+38,Service Fee,9.67
+39,Porcentual,17.73
+40,Porcentual,17.91
+41,Porcentual,21.93
+42,Porcentual,15.31
+43,Service Fee,15.82
+44,Fija,5.99
+45,Fija,3.99
+46,Porcentual,34.99
+47,Fija,5.99
+48,Fija,3.99
+49,Service Fee,4.39
+50,Porcentual,36.4
+51,Fija,4.99
+52,Fija,3.99
+53,Service Fee,10.72
+54,Fija,7.99
+55,Fija,4.99
+56,Fija,4.99
+57,Fija,3.99
+58,Service Fee,9.3
+59,Porcentual,5.01
+60,Porcentual,5.56
+61,Fija,5.99
+62,Fija,4.99
+63,Service Fee,4.76
+64,Service Fee,16.64
+65,Fija,5.99
+66,Porcentual,18.93
+67,Fija,4.99
+68,Fija,7.99
+69,Service Fee,22.08
+70,Porcentual,10.85
+71,Porcentual,5.42
+72,Porcentual,2.24
+73,Fija,4.99
+74,Fija,4.99
+75,Fija,5.99
+76,Porcentual,3.12
+77,Porcentual,4.34
+78,Service Fee,15.69
+79,Fija,4.99
+80,Porcentual,17.64
+81,Fija,3.99
+82,Porcentual,34.84
+83,Service Fee,3.29
+84,Service Fee,18.9
+85,Service Fee,17.92
+86,Fija,7.99
+87,Fija,5.99
+88,Fija,4.99
+89,Fija,4.99
+90,Porcentual,14.72
+91,Fija,5.99
+92,Fija,5.99
+93,Service Fee,3.47
+94,Service Fee,4.41
+95,Service Fee,12.98
+96,Porcentual,18.71
+97,Porcentual,27.17
+98,Fija,4.99
+99,Service Fee,15.57
+100,Porcentual,23.33
+101,Porcentual,1.3
+102,Porcentual,8.17
+103,Porcentual,18.52
+104,Fija,3.99
+105,Service Fee,6.21
+106,Service Fee,15.14
+107,Fija,3.99
+108,Fija,4.99
+109,Porcentual,13.54
+110,Porcentual,11.96
+111,Porcentual,9.55
+112,Fija,5.99
+113,Fija,7.99
+114,Porcentual,18.43
+115,Service Fee,5.67
+116,Porcentual,17.51
+117,Service Fee,4.6
+118,Fija,7.99
+119,Fija,5.99
+120,Porcentual,11.26
+121,Porcentual,24.86
+122,Fija,5.99
+123,Porcentual,3.31
+124,Service Fee,16.29
+125,Fija,4.99
+126,Porcentual,23.11
+127,Service Fee,10.39
+128,Porcentual,2.37
+129,Fija,3.99
+130,Fija,4.99
+131,Porcentual,25.34
+132,Porcentual,10.24
+133,Fija,3.99
+134,Service Fee,14.42
+135,Fija,3.99
+136,Porcentual,13.54
+137,Fija,7.99
+138,Service Fee,4.06
+139,Porcentual,12.39
+140,Service Fee,4.92
+141,Fija,4.99
+142,Service Fee,5.89
+143,Fija,3.99
+144,Fija,5.99
+145,Service Fee,3.54
+146,Fija,4.99
+147,Fija,3.99
+148,Fija,7.99
+149,Fija,5.99
+150,Porcentual,6.47
+151,Fija,4.99
+152,Porcentual,50.17
+153,Fija,3.99
+154,Fija,7.99
+155,Fija,3.99
+156,Fija,3.99
+157,Fija,3.99
+158,Porcentual,12.8
+159,Service Fee,12.16
+160,Fija,5.99
+161,Porcentual,27.64
+162,Service Fee,6.58
+163,Porcentual,17.89
+164,Fija,5.99
+165,Fija,3.99
+166,Fija,4.99
+167,Porcentual,2.8
+168,Fija,3.99
+169,Porcentual,12.01
+170,Service Fee,12.95
+171,Fija,5.99
+172,Porcentual,15.83
+173,Service Fee,6.24
+174,Porcentual,1.33
+175,Porcentual,14.76
+176,Service Fee,3.41
+177,Porcentual,2.85
+178,Porcentual,38.66
+179,Porcentual,11.38
+180,Fija,7.99
+181,Service Fee,5.05
+182,Service Fee,15.67
+183,Fija,5.99
+184,Service Fee,17.45
+185,Porcentual,20.64
+186,Fija,4.99
+187,Porcentual,18.18
+188,Fija,7.99
+189,Service Fee,24.19
+190,Service Fee,22.88
+191,Fija,7.99
+192,Fija,3.99
+193,Fija,3.99
+194,Fija,5.99
+195,Porcentual,4.51
+196,Porcentual,40.59
+197,Porcentual,15.15
+198,Fija,4.99
+199,Porcentual,6.93
+200,Fija,4.99
+201,Fija,5.99
+202,Service Fee,5.84
+203,Porcentual,7.62
+204,Fija,5.99
+205,Porcentual,28.16
+206,Service Fee,9.85
+207,Service Fee,12.32
+208,Fija,4.99
+209,Porcentual,9.24
+210,Service Fee,10.23
+211,Porcentual,21.53
+212,Porcentual,13.11
+213,Fija,7.99
+214,Fija,5.99
+215,Fija,3.99
+216,Porcentual,22.1
+217,Porcentual,11.16
+218,Fija,5.99
+219,Fija,3.99
+220,Service Fee,6.97
+221,Porcentual,42.04
+222,Porcentual,12.05
+223,Porcentual,5.65
+224,Porcentual,29.91
+225,Porcentual,22.32
+226,Porcentual,14.18
+227,Porcentual,3.95
+228,Fija,7.99
+229,Service Fee,8.18
+230,Fija,5.99
+231,Fija,5.99
+232,Service Fee,11.54
+233,Porcentual,7.59
+234,Porcentual,10.71
+235,Fija,7.99
+236,Service Fee,16.72
+237,Service Fee,2.58
+238,Porcentual,24.62
+239,Porcentual,18.88
+240,Porcentual,32.86
+241,Porcentual,10.43
+242,Service Fee,9.74
+243,Service Fee,5.29
+244,Service Fee,18.15
+245,Porcentual,8.32
+246,Fija,5.99
+247,Porcentual,20.71
+248,Porcentual,3.08
+249,Fija,5.99
+250,Fija,7.99
+251,Fija,5.99
+252,Fija,4.99
+253,Fija,7.99
+254,Service Fee,10.5
+255,Porcentual,6.46
+256,Porcentual,14.8
+257,Fija,5.99
+258,Service Fee,25.3
+259,Service Fee,18.78
+260,Porcentual,9.82
+261,Porcentual,22.72
+262,Porcentual,36.46
+263,Fija,4.99
+264,Porcentual,14.37
+265,Porcentual,15.38
+266,Service Fee,19.32
+267,Service Fee,2.26
+268,Porcentual,29.28
+269,Service Fee,22.39
+270,Service Fee,12.7
+271,Porcentual,15.06
+272,Porcentual,31.28
+273,Porcentual,35.79
+274,Porcentual,3.94
+275,Porcentual,19.4
+276,Porcentual,9.96
+277,Fija,3.99
+278,Porcentual,24.74
+279,Porcentual,24.98
+280,Fija,7.99
+281,Porcentual,23.09
+282,Service Fee,5.04
+283,Porcentual,51.41
+284,Porcentual,43.11
+285,Fija,7.99
+286,Fija,7.99
+287,Porcentual,23.07
+288,Porcentual,9.69
+289,Service Fee,17.59
+290,Fija,5.99
+291,Service Fee,3.0
+292,Fija,4.99
+293,Fija,7.99
+294,Service Fee,2.18
+295,Fija,5.99
+296,Service Fee,8.24
+297,Porcentual,27.59
+298,Service Fee,16.05
+299,Porcentual,11.95
+300,Fija,3.99
+301,Fija,3.99
+302,Porcentual,21.82
+303,Fija,7.99
+304,Fija,3.99
+305,Porcentual,8.2
+306,Porcentual,9.47
+307,Fija,4.99
+308,Fija,3.99
+309,Porcentual,43.93
+310,Service Fee,5.8
+311,Porcentual,24.15
+312,Fija,4.99
+313,Porcentual,0.68
+314,Fija,4.99
+315,Fija,4.99
+316,Fija,7.99
+317,Porcentual,9.5
+318,Porcentual,20.67
+319,Service Fee,4.22
+320,Porcentual,48.76
+321,Fija,4.99
+322,Porcentual,32.55
+323,Porcentual,3.1
+324,Fija,3.99
+325,Porcentual,12.56
+326,Porcentual,53.17
+327,Porcentual,4.35
+328,Porcentual,9.18
+329,Porcentual,2.86
+330,Porcentual,20.37
+331,Service Fee,14.92
+332,Porcentual,4.29
+333,Fija,4.99
+334,Fija,3.99
+335,Porcentual,24.61
+336,Porcentual,16.1
+337,Service Fee,6.94
+338,Fija,4.99
+339,Porcentual,5.88
+340,Fija,4.99
+341,Porcentual,31.78
+342,Fija,4.99
+343,Fija,7.99
+344,Fija,7.99
+345,Fija,7.99
+346,Fija,4.99
+347,Fija,3.99
+348,Porcentual,8.9
+349,Porcentual,42.59
+350,Porcentual,25.28
+351,Service Fee,2.51
+352,Service Fee,3.97
+353,Porcentual,4.38
+354,Porcentual,28.66
+355,Porcentual,1.04
+356,Fija,5.99
+357,Porcentual,37.64
+358,Fija,5.99
+359,Service Fee,19.39
+360,Fija,5.99
+361,Service Fee,4.77
+362,Porcentual,4.56
+363,Porcentual,29.96
+364,Porcentual,41.88
+365,Service Fee,17.95
+366,Fija,3.99
+367,Fija,7.99
+368,Porcentual,4.88
+369,Fija,7.99
+370,Fija,4.99
+371,Service Fee,2.64
+372,Porcentual,4.34
+373,Service Fee,6.48
+374,Porcentual,0.87
+375,Porcentual,9.09
+376,Fija,7.99
+377,Porcentual,10.02
+378,Porcentual,48.07
+379,Service Fee,21.51
+380,Porcentual,14.06
+381,Porcentual,5.66
+382,Porcentual,13.69
+383,Service Fee,12.25
+384,Porcentual,10.83
+385,Porcentual,30.62
+386,Fija,4.99
+387,Fija,7.99
+388,Porcentual,12.21
+389,Porcentual,15.82
+390,Fija,3.99
+391,Service Fee,21.17
+392,Porcentual,3.55
+393,Fija,3.99
+394,Porcentual,10.76
+395,Fija,3.99
+396,Fija,4.99
+397,Porcentual,23.8
+398,Service Fee,2.77
+399,Service Fee,9.0
+400,Porcentual,13.17
